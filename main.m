@@ -6,4 +6,4 @@ plot(t, y(:,1)); %RK soln
 hold on
 plot(t, cos(2*t)); %exact soln
 hold on
-euler_redo_redo;
+euler;
